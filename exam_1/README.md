@@ -17,7 +17,7 @@ Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM
 
 <img align="center" width=200px alt="Unicorn" src="https://media3.giphy.com/media/Y3wzF9erUbjfvs3QFo/200w.webp?cid=ecf05e47o8nlgy4qxxlq00zw19typkw5vr929z0mv02ors3v&rid=200w.webp&ct=g"/>
 
-<img align="center" width=200px alt="Unicorn" src="https://media1.giphy.com/media/ZdHsPsHUdWr882Uu85/200w.webp?cid=ecf05e47o8nlgy4qxxlq00zw19typkw5vr929z0mv02ors3v&rid=200w.webp&ct=g"/>
+<img align="left" width=200px alt="Unicorn" src="https://media1.giphy.com/media/ZdHsPsHUdWr882Uu85/200w.webp?cid=ecf05e47o8nlgy4qxxlq00zw19typkw5vr929z0mv02ors3v&rid=200w.webp&ct=g"/>
 
 
 
