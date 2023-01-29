@@ -1,6 +1,6 @@
 # Not so Long Exam #1
 
-**1. Download the Exam.java file**  
+**1. Download the Regex.java and Recursion.java files**  
 
 **2. Please follow the instructions in the file** 
 
