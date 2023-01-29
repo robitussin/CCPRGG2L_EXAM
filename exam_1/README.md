@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; # Not so Long Exam #1
+# Not so Long Exam #1
 
 **1. Download the Exam.java file**  
 
@@ -11,7 +11,7 @@
 - You did not follow the instructions.
 - The code has error/bugs.
 
-Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
 <img align="left" width=300px alt="Unicorn" src="https://media4.giphy.com/media/KztT2c4u8mYYUiMKdJ/200.webp?cid=ecf05e47d58zqgktot00yjcj2foe4lb6kqjmr8ofls9whzxu&rid=200.webp&ct=g"/>
 
