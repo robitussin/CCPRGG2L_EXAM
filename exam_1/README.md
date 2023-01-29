@@ -1,12 +1,12 @@
-# Not so Long Exam #1
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; # Not so Long Exam #1
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **1. Download the Exam.java file**  
+**1. Download the Exam.java file**  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **2. Please follow the instructions in the file** 
+**2. Please follow the instructions in the file** 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **3. Do not remove or edit any code that is already in the file** 
+**3. Do not remove or edit any code that is already in the file** 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **4. Deductions will be applied if:** 
+**4. Deductions will be applied if:** 
 
 - You did not follow the instructions.
 - The code has error/bugs.
