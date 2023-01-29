@@ -13,4 +13,4 @@
 
 Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
-<img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="center" width=300px alt="Unicorn" src="https://giphy.com/gifs/cute-cats-kawaii-KztT2c4u8mYYUiMKdJ" />
