@@ -9,10 +9,10 @@ public class Recursion {
         // Without using arrays or loops or regular expressions, apply recursion to remove specific letters in
         // your full name.
 
-        // 1. If the last letter of your surname ends with a vowel, remove all vowels in
+        // 1. If the last letter of your surname is a vowel, remove all vowels in
         // your full name.
 
-        // 2. If the last letter of your surname ends with a consonant, remove all
+        // 2. If the last letter of your surname is a consonant, remove all
         // consonants in your full name.
 
         // 3. Use only lowercase letters
