@@ -11,6 +11,8 @@
 - You did not follow the instructions.
 - The code has error/bugs.
 
+**5. When you are done, create an "exam_1" folder in your CCPRGG2L_EXAM Repository and upload the Regex.java and Recursion.java files** 
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
 <img align="left" width=300px alt="Unicorn" src="https://media4.giphy.com/media/KztT2c4u8mYYUiMKdJ/200.webp?cid=ecf05e47d58zqgktot00yjcj2foe4lb6kqjmr8ofls9whzxu&rid=200.webp&ct=g"/>
