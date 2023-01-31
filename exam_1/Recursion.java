@@ -29,10 +29,10 @@ public class Recursion {
 
         String fullName = "";
 
-        removeVowel(fullName);
+        removeCharacter(fullName);
     }
 
-    static void removeVowel(String str) {
+    static void removeCharacter(String str) {
             // Add code here
     }
 }
