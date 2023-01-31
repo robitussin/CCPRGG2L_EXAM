@@ -1,6 +1,8 @@
 public class App {
 
     public static void main(String[] args) {
+        
+        // Remove letters (30 pts)
 
         // Instructions (Important!)
 
