@@ -2,7 +2,7 @@
 
 **1. Download the Regex.java and Recursion.java files**  
 
-**2. Please follow the instructions in the file** 
+**2. Please follow the instructions in each file** 
 
 **3. Do not remove or edit any code that is already in the file** 
 
