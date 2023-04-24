@@ -16,17 +16,17 @@ https://gluonhq.com/products/javafx/**
 
 # How to create a JavaFX Project?
 
-**1. Open **Microsoft Visual Studio Code**
+1. Open **Microsoft Visual Studio Code**
 
-**2. Press **F1** and type **Create Java Project**
+2. Press **F1** and type **Create Java Project**
 
-**3. Click ***Java: Create Java Project..***
+3. Click ***Java: Create Java Project..***
 
-**4. Select ***no build tools***
+4. Select ***no build tools***
 
-**5. **Select a folder** where you want to put your project (example: ***My Documents***)
+5. **Select a folder** where you want to put your project (example: ***My Documents***)
 
-**6. In VS Code, enter ***Java Project name*** and press ***Enter***
+6. In VS Code, enter ***Java Project name*** and press ***Enter***
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
