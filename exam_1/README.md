@@ -1,33 +1,10 @@
 # JavaFX Requirements
 
-**1. Install Java SDK. 
-  https://docs.microsoft.com/en-us/java/openjdk/download**  
+**1. Download the Regex.java and Recursion.java files. 
 
-**2. Install Microsoft Visual Studio Code.
-https://code.visualstudio.com/** 
+**2. Follow the instructions in the files.
 
-**3. In Microsoft Visual Studio Code, install "Extension Pack for Java".** 
-
-**4. Install Scene Builder.
-https://gluonhq.com/products/scene-builder/#download** 
-
-**5. Download JavaFX. 
-https://gluonhq.com/products/javafx/** 
-
-# How to create a JavaFX Project?
-
-1. Open **Microsoft Visual Studio Code**
-
-2. Press **F1** and type **Create Java Project**
-
-3. Click ***Java: Create Java Project..***
-
-4. Select ***no build tools***
-
-5. **Select a folder** where you want to put your project (example: ***My Documents***)
-
-6. In VS Code, enter ***Java Project name*** and press ***Enter***
-
+**3. Deductions will be applied if there are errors/bugs or if instructions were not followed".** 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
