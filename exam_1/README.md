@@ -4,7 +4,7 @@
 
 **2. Follow the instructions in the files.**
 
-**3. Deductions will be applied if there are errors/bugs or if instructions were not followed".** 
+**3. Deductions will be applied if there are errors/bugs or if instructions were not followed.** 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
