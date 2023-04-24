@@ -1,6 +1,7 @@
 # Not so Long Exam #1
 
-**1. Download the Regex.java and Recursion.java files**  
+**1. Install Java SDK 
+  https://docs.microsoft.com/en-us/java/openjdk/download**  
 
 **2. Please follow the instructions in each file** 
 
