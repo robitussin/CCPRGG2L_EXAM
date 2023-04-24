@@ -1,4 +1,4 @@
-# JavaFX Requirements
+
 
 **1. Install Java SDK. 
   https://docs.microsoft.com/en-us/java/openjdk/download**  
@@ -14,7 +14,7 @@ https://gluonhq.com/products/scene-builder/#download**
 **5. Download JavaFX. 
 https://gluonhq.com/products/javafx/** 
 
-**6. When you are done, create an exam_1 folder in your CCPRGG2L_EXAM Repository and upload the Regex.java and Recursion.java files** 
+# JavaFX Requirements
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
