@@ -1,8 +1,8 @@
 # JavaFX Requirements
 
-**1. Download the Regex.java and Recursion.java files. **
+**1. Download the Regex.java and Recursion.java files.**
 
-**2. Follow the instructions in the files. **
+**2. Follow the instructions in the files.**
 
 **3. Deductions will be applied if there are errors/bugs or if instructions were not followed".** 
 
