@@ -1,18 +1,20 @@
-# Not so Long Exam #1
+# JavaFX Requirements
 
 **1. Install Java SDK 
   https://docs.microsoft.com/en-us/java/openjdk/download**  
 
-**2. Please follow the instructions in each file** 
+**2. Install Microsoft Visual Studio Code
+https://code.visualstudio.com/** 
 
-**3. Do not remove or edit any code that is already in the file** 
+**3. In Microsoft Visual Studio Code, install "Extension Pack for Java".** 
 
-**4. Deductions will be applied if:** 
+**4. Install Scene Builder
+https://gluonhq.com/products/scene-builder/#download** 
 
-- You did not follow the instructions.
-- The code has errors/bugs.
+**5. Download JavaFX 
+https://gluonhq.com/products/javafx/** 
 
-**5. When you are done, create an exam_1 folder in your CCPRGG2L_EXAM Repository and upload the Regex.java and Recursion.java files** 
+**6. When you are done, create an exam_1 folder in your CCPRGG2L_EXAM Repository and upload the Regex.java and Recursion.java files** 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
